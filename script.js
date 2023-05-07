@@ -7,3 +7,6 @@ form.addEventListener('submit', (event) => {
   event.preventDefault();
   // Aquí puedes agregar código para enviar el formulario o mostrar un mensaje de confirmación al usuario.
 });
+
+
+const about = document.getElementById('about me');
